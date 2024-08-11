@@ -33,7 +33,7 @@ This project is a Streamlit-based dashboard for analyzing Uniswap v3 pools using
 
 2. **Set up environment variables:**
    - Create a `.env` file in the root directory.
-   - Add your API key for The Graph in the `.env` file:
+   - Add your API key for [The Graph](https://thegraph.com/) in the `.env` file:
      ```
      API_KEY=your_graph_api_key_here
      ```
