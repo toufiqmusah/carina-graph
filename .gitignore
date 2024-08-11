@@ -1,7 +1,0 @@
-# Ignore all pdfs
-
-*.pdf
-*.txt
-*.bak
-graph-env/
-__pycache__/
