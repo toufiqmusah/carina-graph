@@ -5,7 +5,7 @@ from subgraph import get_top_pools_data, get_fee_analysis_data, get_comparative_
 from subgrounds.pagination import LegacyStrategy, ShallowStrategy
 
 # Streamlit UI
-st.title("Uniswap v3 Dashboard")
+st.title("Carina-Graph Dashboard")
 st.write("Analyze top pools and their metrics using The Graph")
 
 # Dropdown for pagination strategy
