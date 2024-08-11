@@ -27,23 +27,18 @@ This project is a Streamlit-based dashboard for analyzing Uniswap v3 pools using
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/toufiqmusah/carina-graph.git
+   cd carina-graph
    ```
 
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up environment variables:**
+2. **Set up environment variables:**
    - Create a `.env` file in the root directory.
    - Add your API key for The Graph in the `.env` file:
      ```
      API_KEY=your_graph_api_key_here
      ```
 
-4. **Run the Streamlit app:**
+3. **Run the Streamlit app:**
    ```bash
    streamlit run app.py
    ```
