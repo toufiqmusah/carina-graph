@@ -1,4 +1,7 @@
 # Ignore all pdfs
 
 *.pdf
+*.txt
+*.bak
 graph-env/
+_pycache_/
